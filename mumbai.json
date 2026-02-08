@@ -1,0 +1,106 @@
+[
+ {
+   "id": 2,
+   "category": "Electronics",
+   "subcategory": "Mobile",
+   "product": "Samsung",
+   "price": 110,
+   "place": "Mumbai"
+ },
+ {
+   "id": 2,
+   "category": "Electronics",
+   "subcategory": "Mobile",
+   "product": "Samsung",
+   "price": 110,
+   "place": "Mumbai"
+ },
+ {
+   "id": 2,
+   "category": "Electronics",
+   "subcategory": "Mobile",
+   "product": "Samsung",
+   "price": 110,
+   "place": "Mumbai"
+ },
+ {
+   "id": 5,
+   "category": "Electronics",
+   "subcategory": "Earphone",
+   "product": "Wireless Earbud",
+   "price": null,
+   "place": "Mumbai"
+ },
+ {
+   "id": 8,
+   "category": "Electronics",
+   "subcategory": "charger",
+   "product": "",
+   "price": 110,
+   "place": "Mumbai"
+ },
+ {
+   "id": 11,
+   "category": "Kitchen",
+   "subcategory": "Plates",
+   "product": "Plastic Plate",
+   "price": 400,
+   "place": "Mumbai"
+ },
+ {
+   "id": 14,
+   "category": "Kitchen",
+   "subcategory": "Spoon",
+   "product": "Sliver spoons",
+   "price": 110,
+   "place": "Mumbai"
+ },
+ {
+   "id": 17,
+   "category": "Dress",
+   "subcategory": "Men",
+   "product": "T-Shirt For Men",
+   "price": 400,
+   "place": "Mumbai"
+ },
+ {
+   "id": 19,
+   "category": "Dress",
+   "subcategory": "Girls",
+   "product": "Saree",
+   "price": 300,
+   "place": "Mumbai"
+ },
+ {
+   "id": 21,
+   "category": "Powder",
+   "subcategory": "Food",
+   "product": "",
+   "price": 400,
+   "place": "Mumbai"
+ },
+ {
+   "id": 23,
+   "category": "Powder",
+   "subcategory": "Food",
+   "product": "Garlic Peanut Chutney Powder",
+   "price": 300,
+   "place": "Mumbai"
+ },
+ {
+   "id": 25,
+   "category": "Powder",
+   "subcategory": "Food",
+   "product": "Garam Masala Powder",
+   "price": 400,
+   "place": "Mumbai"
+ },
+ {
+   "id": 27,
+   "category": "Powder",
+   "subcategory": "Detergent",
+   "product": "Matic - Automatic Air Freshener Kit With Flexi Control",
+   "price": 300,
+   "place": "Mumbai"
+ }
+]
