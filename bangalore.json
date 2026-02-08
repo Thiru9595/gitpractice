@@ -1,0 +1,106 @@
+[
+ {
+   "id": 3,
+   "category": "Electronics",
+   "subcategory": "Mobile",
+   "product": "Oppo",
+   "price": 200,
+   "place": "bangalor"
+ },
+ {
+   "id": 3,
+   "category": "Electronics",
+   "subcategory": "Mobile",
+   "product": "Oppo",
+   "price": 200,
+   "place": "bangalor"
+ },
+ {
+   "id": 3,
+   "category": "Electronics",
+   "subcategory": "Mobile",
+   "product": "Oppo",
+   "price": 200,
+   "place": "bangalor"
+ },
+ {
+   "id": 6,
+   "category": "Electronics",
+   "subcategory": "Earphone",
+   "product": "Hybrid Earphone",
+   "price": 400,
+   "place": "bangalor"
+ },
+ {
+   "id": 9,
+   "category": "Kitchen",
+   "subcategory": "Plates",
+   "product": "",
+   "price": 200,
+   "place": "bangalor"
+ },
+ {
+   "id": 12,
+   "category": "Kitchen",
+   "subcategory": "Spoon",
+   "product": "wood spoon",
+   "price": 400,
+   "place": "bangalor"
+ },
+ {
+   "id": 15,
+   "category": "Dress",
+   "subcategory": "Men",
+   "product": "Jeans Pant for Men",
+   "price": 200,
+   "place": "bangalor"
+ },
+ {
+   "id": 18,
+   "category": "Dress",
+   "subcategory": "Girls",
+   "product": "Tops",
+   "price": 400,
+   "place": "bangalor"
+ },
+ {
+   "id": 20,
+   "category": "Dress",
+   "subcategory": "Girls",
+   "product": "Sarees",
+   "price": 200,
+   "place": "bangalor"
+ },
+ {
+   "id": 22,
+   "category": "Powder",
+   "subcategory": "Food",
+   "product": "Cocoa Powder",
+   "price": 400,
+   "place": "bangalor"
+ },
+ {
+   "id": 24,
+   "category": "Powder",
+   "subcategory": "",
+   "product": "",
+   "price": 200,
+   "place": "bangalor"
+ },
+ {
+   "id": 26,
+   "category": "Powder",
+   "subcategory": "Detergent",
+   "product": "Detergent Powder",
+   "price": 400,
+   "place": "bangalor"
+ },
+ {
+   "id": 28,
+   "category": "Powder",
+   "subcategory": "Detergent",
+   "product": "Smart Matic Automatic Air Freshener Refill",
+   "price": 200,
+   "place": "bangalor"
+ }
+]
